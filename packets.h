@@ -204,6 +204,6 @@ static void* deserialize_unk_packet(char* buf) {
 #undef COMBINE
 #undef LN
 #undef FUNCDEF
-#undef NO_VSCODE
+#undef NO_INTELLISENSE
 
 #endif
